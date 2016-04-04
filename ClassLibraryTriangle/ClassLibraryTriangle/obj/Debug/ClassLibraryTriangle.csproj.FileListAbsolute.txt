@@ -1,0 +1,5 @@
+c:\users\gmelnik\documents\visual studio 2013\Projects\ClassLibraryTriangle\ClassLibraryTriangle\bin\Debug\ClassLibraryTriangle.dll
+c:\users\gmelnik\documents\visual studio 2013\Projects\ClassLibraryTriangle\ClassLibraryTriangle\bin\Debug\ClassLibraryTriangle.pdb
+c:\users\gmelnik\documents\visual studio 2013\Projects\ClassLibraryTriangle\ClassLibraryTriangle\obj\Debug\ClassLibraryTriangle.csprojResolveAssemblyReference.cache
+c:\users\gmelnik\documents\visual studio 2013\Projects\ClassLibraryTriangle\ClassLibraryTriangle\obj\Debug\ClassLibraryTriangle.dll
+c:\users\gmelnik\documents\visual studio 2013\Projects\ClassLibraryTriangle\ClassLibraryTriangle\obj\Debug\ClassLibraryTriangle.pdb
